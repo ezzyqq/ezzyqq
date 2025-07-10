@@ -30,7 +30,7 @@
 ![Turbowarp](https://img.shields.io/badge/Turbowarp-FF6600?style=for-the-badge&logo=scratch&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-019733?style=for-the-badge&logo=vim&logoColor=white)
 [![VSCodium](https://img.shields.io/badge/VSCodium-2f303f?style=for-the-badge&logo=vscodium&logoColor=white)](https://vscodium.com)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 
 #### 🖥️ Creative & Media Tools
 ![Kdenlive](https://img.shields.io/badge/Kdenlive-527BBE?style=for-the-badge&logo=kdenlive&logoColor=white)

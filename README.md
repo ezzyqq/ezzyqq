@@ -1,8 +1,6 @@
-### \[Hello/Привет/Привіт]!
-
+### 👋 Hello/Привет/Привіт!
 
 ---
-
 
 ### 🧠 I have experience with:
 
@@ -37,16 +35,16 @@
 ![Kdenlive](https://img.shields.io/badge/Kdenlive-527BBE?style=for-the-badge&logo=kdenlive&logoColor=white)
 ![OBS Studio](https://img.shields.io/badge/OBS_Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white)
 
-
 ---
-
 
 ### 📊 Most used programming languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezzyqq&layout=compact&theme=dark)
 
+---
+
+### 🔮 GitHub Status
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ezzyqq&show_icons=true&theme=dark&layout=compact&hide=prs)
 
 ---
-
 
 systemd угроза redhat кибероружие наноробот система уязвимость redhat gcc модуль ошибка киберслежка fedora угроза systemd модуль redhat наноробот

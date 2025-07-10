@@ -1,7 +1,7 @@
 ### \[Hello/Привет/Привіт]!
-\
+
 ---
-\
+
 ### 🧠 I have experience with:
 
 #### 🐧 Linux distros

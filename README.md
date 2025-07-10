@@ -23,7 +23,7 @@
 #### 🔧 Tools & Languages
 [![pacman](https://img.shields.io/badge/pacman-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://pacman.archlinux.page/)
 [![xbps](https://img.shields.io/badge/xbps-000000?style=for-the-badge&logo=void-linux&logoColor=white)](https://github.com/void-linux/xbps)
-![emerge](https://img.shields.io/badge/emerge-54487A?style=for-the-badge&logo=gentoo&logoColor=white)
+[![emerge](https://img.shields.io/badge/emerge-54487A?style=for-the-badge&logo=gentoo&logoColor=white)](https://wiki.gentoo.org/wiki/Emerge)
 ![doas](https://img.shields.io/badge/doas-333333?style=for-the-badge&logo=openbsd&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)

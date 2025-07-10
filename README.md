@@ -7,7 +7,7 @@
 #### 🐧 Linux distros
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Void Linux](https://img.shields.io/badge/Void_Linux-000000?style=for-the-badge&logo=void-linux&logoColor=white)
-![Artix Linux](https://img.shields.io/badge/Artix_Linux-10A0CC?style=for-the-badge&logo=artix-linux&logoColor=white)
+![Artix Linux](https://img.shields.io/badge/Artix_Linux-10A0CC?style=for-the-badge&logo=artix-linux&logoColor=white)(https://google.com)
 ![Gentoo Linux](https://img.shields.io/badge/Gentoo_Linux-54487A?style=for-the-badge&logo=gentoo&logoColor=white)
 ![Slackware](https://img.shields.io/badge/Slackware_Linux-000080?style=for-the-badge&logo=slackware&logoColor=white)
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)

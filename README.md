@@ -17,8 +17,8 @@
 [![Runit](https://img.shields.io/badge/Runit-000000?style=for-the-badge&logo=linux&logoColor=white)](https://smarden.org/runit/)
 [![OpenRC](https://img.shields.io/badge/OpenRC-336699?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/OpenRC/openrc)
 [![SysVinit](https://img.shields.io/badge/SysVinit-555555?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/slicer69/sysvinit)
-![Dinit](https://img.shields.io/badge/Dinit-222222?style=for-the-badge&logo=linux&logoColor=white)
-![systemd](https://img.shields.io/badge/systemd-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+[![Dinit](https://img.shields.io/badge/Dinit-222222?style=for-the-badge&logo=linux&logoColor=white)](https://davmac.org/projects/dinit/)
+[![systemd](https://img.shields.io/badge/systemd-EE0000?style=for-the-badge&logo=redhat&logoColor=white)](https://systemd.io/)
 
 #### 🔧 Tools & Languages
 ![pacman](https://img.shields.io/badge/pacman-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)

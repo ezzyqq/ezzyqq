@@ -1,5 +1,7 @@
 ### \[Hello/Привет/Привіт]!
-
+\
+---
+\
 ### 🧠 I have experience with:
 
 #### 🐧 Linux distros
@@ -32,9 +34,7 @@
 #### 🖥️ Creative & Media Tools
 ![Kdenlive](https://img.shields.io/badge/Kdenlive-527BBE?style=for-the-badge&logo=kdenlive&logoColor=white)
 ![OBS Studio](https://img.shields.io/badge/OBS_Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white)
-
-
+\
 ---
-
-
+\
 systemd угроза redhat кибероружие наноробот система уязвимость redhat gcc модуль

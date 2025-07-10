@@ -44,6 +44,7 @@
 ### 📊 Most used programming languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezzyqq&layout=compact&theme=dark)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ezzyqq&show_icons=true&theme=tokyonight&layout=compact&hide=prs)
 
 ---
 

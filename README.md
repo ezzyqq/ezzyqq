@@ -14,7 +14,7 @@
 [![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white)](https://www.alpinelinux.org/)
 
 #### ⚙️ Linux Init systems
-![Runit](https://img.shields.io/badge/Runit-000000?style=for-the-badge&logo=linux&logoColor=white)
+[![Runit](https://img.shields.io/badge/Runit-000000?style=for-the-badge&logo=linux&logoColor=white)](https://smarden.org/runit/)
 ![OpenRC](https://img.shields.io/badge/OpenRC-336699?style=for-the-badge&logo=linux&logoColor=white)
 ![SysVinit](https://img.shields.io/badge/SysVinit-555555?style=for-the-badge&logo=linux&logoColor=white)
 ![Dinit](https://img.shields.io/badge/Dinit-222222?style=for-the-badge&logo=linux&logoColor=white)

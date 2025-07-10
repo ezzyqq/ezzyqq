@@ -1,5 +1,5 @@
 ### 👋 Hello/Привет/Привіт
-![test](https://q4storage.ps.fhgdps.com/readme/hello.gif)
+![test](./hello.gif)
 
 ---
 

@@ -10,8 +10,8 @@
 [![Artix Linux](https://img.shields.io/badge/Artix_Linux-10A0CC?style=for-the-badge&logo=artix-linux&logoColor=white)](https://artixlinux.org)
 [![Gentoo Linux](https://img.shields.io/badge/Gentoo_Linux-54487A?style=for-the-badge&logo=gentoo&logoColor=white)](https://www.gentoo.org/)
 [![Slackware](https://img.shields.io/badge/Slackware_Linux-000080?style=for-the-badge&logo=slackware&logoColor=white)](http://www.slackware.com/)
-![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
-![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white)
+[![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)](https://nixos.org/)
+[![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white)](https://www.alpinelinux.org/)
 
 #### ⚙️ Linux Init systems
 ![Runit](https://img.shields.io/badge/Runit-000000?style=for-the-badge&logo=linux&logoColor=white)

@@ -21,8 +21,8 @@
 [![systemd](https://img.shields.io/badge/systemd-EE0000?style=for-the-badge&logo=redhat&logoColor=white)](https://systemd.io/)
 
 #### 🔧 Tools & Languages
-![pacman](https://img.shields.io/badge/pacman-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![xbps](https://img.shields.io/badge/xbps-000000?style=for-the-badge&logo=void-linux&logoColor=white)
+[![pacman](https://img.shields.io/badge/pacman-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://pacman.archlinux.page/)
+[![xbps](https://img.shields.io/badge/xbps-000000?style=for-the-badge&logo=void-linux&logoColor=white)](https://github.com/void-linux/xbps)
 ![emerge](https://img.shields.io/badge/emerge-54487A?style=for-the-badge&logo=gentoo&logoColor=white)
 ![doas](https://img.shields.io/badge/doas-333333?style=for-the-badge&logo=openbsd&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

@@ -5,11 +5,11 @@
 ### 🧠 I have experience with
 
 #### 🐧 Linux distros
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Void Linux](https://img.shields.io/badge/Void_Linux-000000?style=for-the-badge&logo=void-linux&logoColor=white)
-![Artix Linux](https://img.shields.io/badge/Artix_Linux-10A0CC?style=for-the-badge&logo=artix-linux&logoColor=white)
-![Gentoo Linux](https://img.shields.io/badge/Gentoo_Linux-54487A?style=for-the-badge&logo=gentoo&logoColor=white)
-![Slackware](https://img.shields.io/badge/Slackware_Linux-000080?style=for-the-badge&logo=slackware&logoColor=white)
+[![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org)
+[![Void Linux](https://img.shields.io/badge/Void_Linux-000000?style=for-the-badge&logo=void-linux&logoColor=white)](https://voidlinux.org)
+[![Artix Linux](https://img.shields.io/badge/Artix_Linux-10A0CC?style=for-the-badge&logo=artix-linux&logoColor=white)](https://artixlinux.org)
+[![Gentoo Linux](https://img.shields.io/badge/Gentoo_Linux-54487A?style=for-the-badge&logo=gentoo&logoColor=white)](https://www.gentoo.org/)
+[![Slackware](https://img.shields.io/badge/Slackware_Linux-000080?style=for-the-badge&logo=slackware&logoColor=white)](http://www.slackware.com/)
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
 ![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white)
 

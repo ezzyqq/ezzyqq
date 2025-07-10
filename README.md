@@ -1,5 +1,5 @@
 ### 👋 Hello/Привет/Привіт!
-![https://q4storage.ps.fhgdps.com/readme/hello.mp4]
+![https://q4storage.ps.fhgdps.com/readme/hello.gif]
 
 ---
 

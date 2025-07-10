@@ -18,6 +18,7 @@
 ![OpenRC](https://img.shields.io/badge/OpenRC-336699?style=for-the-badge&logo=linux&logoColor=white)
 ![SysVinit](https://img.shields.io/badge/SysVinit-555555?style=for-the-badge&logo=linux&logoColor=white)
 ![Dinit](https://img.shields.io/badge/Dinit-222222?style=for-the-badge&logo=linux&logoColor=white)
+![systemd](https://img.shields.io/badge/systemd-4E8EE5?style=for-the-badge&logo=systemd&logoColor=white)
 
 #### 🔧 Tools & Languages
 ![pacman](https://img.shields.io/badge/pacman-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)

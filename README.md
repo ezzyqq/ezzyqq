@@ -24,7 +24,7 @@
 [![pacman](https://img.shields.io/badge/pacman-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://pacman.archlinux.page/)
 [![xbps](https://img.shields.io/badge/xbps-000000?style=for-the-badge&logo=void-linux&logoColor=white)](https://github.com/void-linux/xbps)
 [![emerge](https://img.shields.io/badge/emerge-54487A?style=for-the-badge&logo=gentoo&logoColor=white)](https://wiki.gentoo.org/wiki/Emerge)
-![doas](https://img.shields.io/badge/doas-333333?style=for-the-badge&logo=openbsd&logoColor=white)
+[![doas](https://img.shields.io/badge/doas-333333?style=for-the-badge&logo=openbsd&logoColor=white)](https://github.com/slicer69/doas)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Turbowarp](https://img.shields.io/badge/Turbowarp-FF6600?style=for-the-badge&logo=scratch&logoColor=white)

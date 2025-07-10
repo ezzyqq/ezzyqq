@@ -13,12 +13,12 @@
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
 ![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white)
 
-#### ⚙️ Init systems
+#### ⚙️ Linux Init systems
 ![Runit](https://img.shields.io/badge/Runit-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![OpenRC](https://img.shields.io/badge/OpenRC-336699?style=for-the-badge&logo=linux&logoColor=white)
 ![SysVinit](https://img.shields.io/badge/SysVinit-555555?style=for-the-badge&logo=linux&logoColor=white)
 ![Dinit](https://img.shields.io/badge/Dinit-222222?style=for-the-badge&logo=linux&logoColor=white)
-![systemd](https://img.shields.io/badge/systemd-4E8EE5?style=for-the-badge&logo=redhat&logoColor=white)
+![systemd](https://img.shields.io/badge/systemd-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 
 #### 🔧 Tools & Languages
 ![pacman](https://img.shields.io/badge/pacman-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)

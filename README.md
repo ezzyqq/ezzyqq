@@ -42,7 +42,7 @@
 
 ---
 
-### 🔮 GitHub Status
+### 🔮 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ezzyqq&show_icons=true&theme=dark&layout=compact&hide=prs)
 
 ---

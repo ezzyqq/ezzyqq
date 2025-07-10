@@ -33,8 +33,8 @@
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 
 #### 🖥️ Creative & Media Tools
-![Kdenlive](https://img.shields.io/badge/Kdenlive-527BBE?style=for-the-badge&logo=kdenlive&logoColor=white)
-![OBS Studio](https://img.shields.io/badge/OBS_Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white)
+[![Kdenlive](https://img.shields.io/badge/Kdenlive-527BBE?style=for-the-badge&logo=kdenlive&logoColor=white)](https://kdenlive.org/)
+[![OBS Studio](https://img.shields.io/badge/OBS_Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white)](https://obsproject.com/)
 
 ---
 
@@ -51,7 +51,7 @@
 ### 📬 Contact me
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ezzy27x)
-![Discord: @ezzyqq](https://img.shields.io/badge/Discord-ezzyqq-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+[![Discord: @ezzyqq](https://img.shields.io/badge/Discord-ezzyqq-5865F2?style=for-the-badge&logo=discord&logoColor=white)]()
 
 ---
 

@@ -27,8 +27,8 @@
 [![doas](https://img.shields.io/badge/doas-333333?style=for-the-badge&logo=openbsd&logoColor=white)](https://github.com/slicer69/doas)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)](https://wikipedia.org/wiki/Bash_(Unix_shell))
-![Turbowarp](https://img.shields.io/badge/Turbowarp-FF6600?style=for-the-badge&logo=scratch&logoColor=white)
-![Vim](https://img.shields.io/badge/VIM-019733?style=for-the-badge&logo=vim&logoColor=white)
+[![Turbowarp](https://img.shields.io/badge/Turbowarp-FF6600?style=for-the-badge&logo=scratch&logoColor=white)](https://turbowarp.org/)
+[![Vim](https://img.shields.io/badge/VIM-019733?style=for-the-badge&logo=vim&logoColor=white)](https://www.vim.org/)
 [![VSCodium](https://img.shields.io/badge/VSCodium-2f303f?style=for-the-badge&logo=vscodium&logoColor=white)](https://vscodium.com)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 

@@ -42,6 +42,10 @@
 
 
 ### 📊 Most used programming languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezzyqq&layout=compact&theme=tokyonight)
+
+
+---
 
 
 systemd угроза redhat кибероружие наноробот система уязвимость redhat gcc модуль ошибка киберслежка fedora угроза systemd модуль redhat наноробот

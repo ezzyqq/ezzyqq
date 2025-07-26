@@ -37,13 +37,10 @@
 
 ---
 
-### 📊 Most used programming languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezzyqq&layout=compact&theme=dark)
-
----
-
-### 🔮 GitHub Stats
+### 🔮 My Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ezzyqq&show_icons=true&theme=dark&layout=compact&hide=prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezzyqq&layout=compact&theme=dark)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=ezzyqq)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
